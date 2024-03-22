@@ -1,0 +1,75 @@
+.aboutuspara{
+    text-align:center;
+    font-size:small;
+}
+.ppara{
+    text-align:center;
+    font-size:medium;
+}
+.headingwhydonate{
+    text-align:center;
+    font-size:xx-large;
+    color:red;
+}
+
+
+
+span.requestblood {
+    float: left;
+    align-items: baseline;
+    width: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-right: thick;
+    
+}
+span.requestbloodimage{
+
+    margin-left: 200px;
+}
+button.requestbloodbutton{
+    border-radius: 10px;
+    background-color: rgb(227, 48, 48);
+    color: white;
+    height: 40px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+a.requestbloodbutton{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 12px 16px;
+    text-decoration: none;
+    border-color:  rgb(227, 48, 48);
+}
+span.donateblood {
+    float: left;
+    align-items: baseline;
+    width: 50%;  
+    margin-bottom: 93px; 
+}
+
+span.donateblood img{
+    float: left;
+    height: 160px;
+    margin-left: 100px ;
+    margin-top: 20px;
+    
+}
+button.donatebloodbutton{
+    border-radius: 10px;
+    background-color:green;
+    color: white;
+    height: 40px;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+a.donatebloodbutton{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 12px 16px;
+    text-decoration: none;
+    border-color: green;
+}
