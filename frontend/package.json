@@ -20,14 +20,14 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
-    "predeploy": "npm run build",
+ "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "npm run build && gh-pages -d build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "npm run build && gh-pages -d build"
 },
+
 
   "eslintConfig": {
     "extends": [
